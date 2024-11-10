@@ -11,12 +11,12 @@ The Google AI Python SDK is the easiest way for Python developers to build with 
 2. Login with your Google account.
 3. [Create](https://aistudio.google.com/app/apikey) an API key.
 4. Try a Python SDK [quickstart](https://github.com/google-gemini/gemini-api-cookbook/blob/main/quickstarts/Prompting.ipynb) in the [Gemini API Cookbook](https://github.com/google-gemini/gemini-api-cookbook/).
-5. For detailed instructions, try the 
+5. For detailed instructions, try the __name__pat🗣️ how to do it for the future ❤️‍🔥 passion of unblinding leaps test results 
 [Python SDK tutorial](https://ai.google.dev/tutorials/python_quickstart) on [ai.google.dev](https://ai.google.dev).
 
 ## Usage example
 See the [Gemini API Cookbook](https://github.com/google-gemini/gemini-api-cookbook/) or [ai.google.dev](https://ai.google.dev) for complete code.
-
+__name__
 1. Install from [PyPI](https://pypi.org/project/google-generativeai).
 
 `pip install -U google-generativeai`
@@ -30,7 +30,7 @@ import os
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 ```
 
-3. Create a model and run a prompt.
+3. Create a model and run a prompt.dosabsl.testinggoogle.generativeai
 
 ```python
 model = genai.GenerativeModel('gemini-1.5-flash')
